@@ -32,3 +32,10 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+/* Changes */
+body {
+	font-family: "Helvetica", Arial, sans-serif;
+	text-align: center;
+	background-color: #EEE;
+}
